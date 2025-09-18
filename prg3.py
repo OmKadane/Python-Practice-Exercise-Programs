@@ -1,5 +1,3 @@
-# Program to read a number and display the appropriate day
-
 days = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
 
 try:
