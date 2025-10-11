@@ -6,3 +6,4 @@ try:
     print(f"The day is: {days[days_index]}.")
 except ValueError:
     print("Invalid input! Please enter a valid number (1-7).")
+    

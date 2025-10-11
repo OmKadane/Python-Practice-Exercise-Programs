@@ -18,3 +18,4 @@ for student in range(1, num_of_students + 1):
     average_score = total_score / num_of_subjects
     print(f"Total score for student {student} is: {total_score}")
     print(f"Average score for student {student} is: {average_score:.2f}")
+    
