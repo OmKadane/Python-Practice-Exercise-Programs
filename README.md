@@ -5,7 +5,7 @@
 
 ## Weekly Exercise Programs of Python </> 🐍
 
-* **🍽 Eat
-* **😴 Sleep
-* **👨🏻‍💻 Code
-* **🔄 Repeat
+* 🍽 Eat
+* 😴 Sleep
+* 👨🏻‍💻 Code
+* 🔄 Repeat
